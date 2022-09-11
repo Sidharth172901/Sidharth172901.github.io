@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "CV"
+author: "Sidharth"
+description: "I am an undergradate student in Applied Electronics and Instrumentation from College of Engineering Trivandrum. I am hooked in the field of Mathematics and continuously applying it to the field of electronics as well. I am a connoisseur in Signal Processing and Machine Learning. I am the founder of MATHLETES (Mathematical Society in College of Engineeirng Trivandrum). MATHLETES aims to establish a mathematical speaking society in the campus and helps the campus to produce the finest engineers in the nation. " # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "sidharthksd12@gmail.com"
+#twitter_username: "twitteruser"
+#github_username: "githubuser"
+linkedin_username: "sidharth172901"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
