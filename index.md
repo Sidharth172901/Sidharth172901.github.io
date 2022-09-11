@@ -55,4 +55,4 @@ Organisations
 
 MATHLETES
 ---------
-![Logo](_posts/MATHLETES001.png)
+<img src="_posts/MATHLETES001.png" width="20" height="20">
