@@ -25,7 +25,7 @@ Supervisor : Dr. Sandeep E.M
 Institution : Indian Statistical Institute Tezpur(ISI Tezpur)
 Duration : April'22 - Present
 
-## Outcomes
+#### Outcomes
 
 Obtained knowledge on
 * Basics of Congruences
@@ -42,7 +42,7 @@ Supervisor : Dr.K.S.S Moosath
 Institution : Indian Institute of Space Science and Technology(IIST)
 Duration : December'21 - March'22
 
-## Outcomes
+#### Outcomes
 
 Obtained Knowledge on 
 * Linear Algebra
@@ -55,3 +55,4 @@ Organisations
 
 MATHLETES
 ---------
+![Logo](posts/MATHLETES001.png)
