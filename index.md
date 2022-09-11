@@ -1,13 +1,13 @@
 Education
 ==========
 
-Btech in Applied Electronics and Instrumentation Engineering with a minor in Mathematics from College of Engineering Trivandrum
-Year of graduation : 2023
+* Btech in Applied Electronics and Instrumentation Engineering with a minor in Mathematics from College of Engineering Trivandrum
+* Year of graduation : 2023
 
 Grade
 -----
-Major : 9.76
-Minor : 10
+* Major : 9.76
+* Minor : 10
 
 Research Experience
 ===================
@@ -55,4 +55,4 @@ Organisations
 
 MATHLETES
 ---------
-![Logo](_posts/MATHLETES001.png)
+![Logo](_posts/MATHLETES001.png  width=25% height = 25%)
