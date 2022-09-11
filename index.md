@@ -14,15 +14,15 @@ Research Experience
 
 ### Multi-label Bird Classification using Graphical Neural Networks
 
-Supervisor : Dr. Rajeev Rajan
-Lead : Noumida A
-Institution : College of Engineering Trivandrum
+Supervisor : Dr. Rajeev Rajan\
+Lead : Noumida A\
+Institution : College of Engineering Trivandrum\
 Duration : August'22 - Present
 
 ### Analytical Number Theory
 
-Supervisor : Dr. Sandeep E.M
-Institution : Indian Statistical Institute Tezpur(ISI Tezpur)
+Supervisor : Dr. Sandeep E.M\
+Institution : Indian Statistical Institute Tezpur(ISI Tezpur)\
 Duration : April'22 - Present
 
 #### Outcomes
