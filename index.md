@@ -38,8 +38,8 @@ Obtained knowledge on
 
 ### Mathematics for Geometric Deep Learning
 
-Supervisor : Dr.K.S.S Moosath
-Institution : Indian Institute of Space Science and Technology(IIST)
+Supervisor : Dr.K.S.S Moosath\
+Institution : Indian Institute of Space Science and Technology(IIST)\
 Duration : December'21 - March'22
 
 #### Outcomes
